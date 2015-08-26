@@ -1,1 +1,2 @@
 Official Git documentation: http://git-scm.com/doc
+https://www.codeschool.com/courses/try-git
